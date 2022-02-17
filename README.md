@@ -41,3 +41,6 @@ English is my second language, and I learned Japanese because I like anime.
 Writing code gives me a great sense of accomplishment.
 
 So I will definitely double my learning in the future in order to write better code.
+
+
+如果你想联系我，请发送邮件到:liubinyu@aliyun.com
